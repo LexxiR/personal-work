@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/victoriareddington/CLionProjects/Assignment5SimpleSteganography/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+
