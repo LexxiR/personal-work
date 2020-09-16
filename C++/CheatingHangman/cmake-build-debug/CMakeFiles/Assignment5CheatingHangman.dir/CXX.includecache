@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lexxireddington/CLionProjects/Assignment5CheatingHangman/Hangman.cpp
+Hangman.h
+/Users/lexxireddington/CLionProjects/Assignment5CheatingHangman/Hangman.h
+iostream
+-
+fstream
+-
+map
+-
+vector
+-
+
+/Users/lexxireddington/CLionProjects/Assignment5CheatingHangman/Hangman.h
+iostream
+-
+vector
+-
+map
+-
+

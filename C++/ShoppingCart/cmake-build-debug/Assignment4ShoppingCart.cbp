@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment4ShoppingCart"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment4ShoppingCart">
+				<Option output="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Assignment4ShoppingCart" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment4ShoppingCart"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment4ShoppingCart/fast">
+				<Option output="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Assignment4ShoppingCart" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment4ShoppingCart/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Peach.cpp">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Peach.h">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Pear.cpp">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Pear.h">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Peas.cpp">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Peas.h">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Peppers.cpp">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Peppers.h">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Pineapple.cpp">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Pineapple.h">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Produce.cpp">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Produce.h">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/ShoppingCart.cpp">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/ShoppingCart.h">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Weighted.cpp">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/Weighted.h">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/main.cpp">
+			<Option target="Assignment4ShoppingCart"/>
+		</Unit>
+		<Unit filename="/Users/lexxireddington/CLionProjects/Assignment4ShoppingCart/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
