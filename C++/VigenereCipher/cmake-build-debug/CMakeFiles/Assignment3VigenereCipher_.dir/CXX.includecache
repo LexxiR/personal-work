@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lexxireddington/CLionProjects/Assignment3VigenereCipher/Letter.cpp
+Letter.h
+/Users/lexxireddington/CLionProjects/Assignment3VigenereCipher/Letter.h
+iostream
+-
+
+/Users/lexxireddington/CLionProjects/Assignment3VigenereCipher/Letter.h
+ostream
+-
+
+/Users/lexxireddington/CLionProjects/Assignment3VigenereCipher/cipher.cpp
+cipher.h
+/Users/lexxireddington/CLionProjects/Assignment3VigenereCipher/cipher.h
+Letter.h
+/Users/lexxireddington/CLionProjects/Assignment3VigenereCipher/Letter.h
+iostream
+-
+fstream
+-
+
+/Users/lexxireddington/CLionProjects/Assignment3VigenereCipher/cipher.h
+string
+-
+
+/Users/lexxireddington/CLionProjects/Assignment3VigenereCipher/main.cpp
+cipher.h
+/Users/lexxireddington/CLionProjects/Assignment3VigenereCipher/cipher.h
+iostream
+-
+
