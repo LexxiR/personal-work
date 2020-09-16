@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/victoriareddington/CLionProjects/Assignment6NoTakTo/game.cpp
+iostream
+-
+vector
+-
+
+/Users/victoriareddington/CLionProjects/Assignment6NoTakTo/game.h
+
+/Users/victoriareddington/CLionProjects/Assignment6NoTakTo/main.cpp
+iostream
+-
+vector
+-
+game.h
+/Users/victoriareddington/CLionProjects/Assignment6NoTakTo/game.h
+
