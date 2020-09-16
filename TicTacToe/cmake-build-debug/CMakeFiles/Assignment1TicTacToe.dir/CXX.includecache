@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lexxireddington/CLionProjects/Assignment1TicTacToe/Board.h
+vector
+-
+
+/Users/lexxireddington/CLionProjects/Assignment1TicTacToe/Move.h
+
+/Users/lexxireddington/CLionProjects/Assignment1TicTacToe/TicTacToe.h
+Move.h
+/Users/lexxireddington/CLionProjects/Assignment1TicTacToe/Move.h
+Board.h
+/Users/lexxireddington/CLionProjects/Assignment1TicTacToe/Board.h
+
+/Users/lexxireddington/CLionProjects/Assignment1TicTacToe/main.cpp
+TicTacToe.h
+/Users/lexxireddington/CLionProjects/Assignment1TicTacToe/TicTacToe.h
+

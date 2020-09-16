@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lexxireddington/CLionProjects/Assignment2War/Card.cpp
+string
+-
+Card.h
+/Users/lexxireddington/CLionProjects/Assignment2War/Card.h
+
+/Users/lexxireddington/CLionProjects/Assignment2War/Card.h
+iostream
+-
+
+/Users/lexxireddington/CLionProjects/Assignment2War/War.cpp
+random
+-
+War.h
+/Users/lexxireddington/CLionProjects/Assignment2War/War.h
+
+/Users/lexxireddington/CLionProjects/Assignment2War/War.h
+vector
+-
+list
+-
+Card.h
+/Users/lexxireddington/CLionProjects/Assignment2War/Card.h
+
+/Users/lexxireddington/CLionProjects/Assignment2War/main.cpp
+iostream
+-
+War.h
+/Users/lexxireddington/CLionProjects/Assignment2War/War.h
+
