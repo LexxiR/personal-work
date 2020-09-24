@@ -1,0 +1,22 @@
+4
+5
+clock 4 0
+smile
+frown
+smile
+clock 8 15
+frown
+smile
+clock 3 30
+clock 12 45
+smile
+clock 10 20
+smile
+smile
+frown
+frown
+frown
+clock 11 0
+frown
+smile
+clock 7 50
