@@ -5,7 +5,8 @@ Currently, this collection includes code in the following languages:
 - Haskell
 - Java
 - Racket
+
 Additionally, the collection will soon include code in the following languages:
 - Python
 - R
-- HTML/CSS/Javascript 
+- HTML/CSS/Javascript
