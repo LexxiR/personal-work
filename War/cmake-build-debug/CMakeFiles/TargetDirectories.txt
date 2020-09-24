@@ -1,3 +1,0 @@
-/Users/lexxireddington/CLionProjects/Assignment2War/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lexxireddington/CLionProjects/Assignment2War/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lexxireddington/CLionProjects/Assignment2War/cmake-build-debug/CMakeFiles/Assignment2War.dir
